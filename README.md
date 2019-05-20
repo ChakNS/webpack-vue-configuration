@@ -1,7 +1,7 @@
 # webpack结合Vue
 
 注意，本文默认你已经配置好了webpack，webpack配置参考：
-https://github.com/ChakNS/Webpack-configuration.git
+https://github.com/ChakNS/Webpack-configuration
 
 最终项目架构：
 
